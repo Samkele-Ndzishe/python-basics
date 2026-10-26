@@ -1,7 +1,7 @@
 # question 1
 name = input("Enter your name:") 
 age = input("Enter your age:")
-print(f"Hello {name}", age)
+print(f"Hello {name}, you are {age} years old.")
 
 # question 2
 length = int(input("whats the length of the rectangle:"))
